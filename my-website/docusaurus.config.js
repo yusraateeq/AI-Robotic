@@ -96,7 +96,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/yusraateeq/AI-Robotic.git',
             label: 'GitHub',
             position: 'right',
           },
@@ -137,7 +137,7 @@ const config = {
               
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/yusraateeq/AI-Robotic.git',
               },
             ],
           },

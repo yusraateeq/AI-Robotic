@@ -9,6 +9,7 @@ const RagChatbot = () => {
   const [selectedText, setSelectedText] = useState('');
   const [showTextSelectionHelp, setShowTextSelectionHelp] = useState(false);
   const [isChatOpen, setIsChatOpen] = useState(false);
+
   const messagesEndRef = useRef(null);
   const textareaRef = useRef(null);
 
@@ -21,7 +22,7 @@ const RagChatbot = () => {
   useEffect(() => {
     const handleTextSelection = () => {
       const selection = window.getSelection();
-      if (selection.toString().trim() !== '') {
+      if (selection && selection.toString().trim() !== '') {
         setSelectedText(selection.toString().trim());
         setShowTextSelectionHelp(true);
         setTimeout(() => setShowTextSelectionHelp(false), 3000);
@@ -37,31 +38,46 @@ const RagChatbot = () => {
     const userMessage = {
       id: Date.now(),
       role: 'user',
-      content: selectedText ? `Context: ${selectedText}\nQuestion: ${inputValue}` : inputValue,
+      content: selectedText
+        ? `Context: ${selectedText}\nQuestion: ${inputValue}`
+        : inputValue,
       timestamp: new Date()
     };
+
     setMessages(prev => [...prev, userMessage]);
     setInputValue('');
     setIsLoading(true);
 
     try {
-      const endpoint = selectedText ? '/api/chat/query_with_context' : '/api/chat/query';
+      const endpoint = selectedText
+        ? '/api/chat/query_with_context'
+        : '/api/chat/query';
+
       const requestBody = selectedText
         ? { query: inputValue, context: selectedText, session_id: sessionId || undefined }
         : { query: inputValue, session_id: sessionId || undefined };
 
-      // Use direct backend URL here
-      const response = await fetch(`http://127.0.0.1:8000${endpoint}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(requestBody)
-      });
+      // ✅ FIXED: env-based API URL
+      const response = await fetch(
+        `${process.env.REACT_APP_API_URL}${endpoint}`,
+        {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(requestBody)
+        }
+      );
 
-      if (!response.ok) throw new Error(`API request failed: ${response.status}`);
+      if (!response.ok) {
+        throw new Error(`API request failed: ${response.status}`);
+      }
 
       const data = await response.json();
 
-      if (data.session_id && !sessionId) setSessionId(data.session_id);
+      if (data.session_id && !sessionId) {
+        setSessionId(data.session_id);
+      }
 
       const assistantMessage = {
         id: Date.now() + 1,
@@ -70,6 +86,7 @@ const RagChatbot = () => {
         sources: data.sources || [],
         timestamp: new Date()
       };
+
       setMessages(prev => [...prev, assistantMessage]);
       setSelectedText('');
     } catch (error) {
@@ -118,7 +135,11 @@ const RagChatbot = () => {
 
           {selectedText && (
             <div className="text-selection-helper">
-              <p><strong>Selected text:</strong> "{selectedText.substring(0, 100)}{selectedText.length > 100 ? '...' : ''}"</p>
+              <p>
+                <strong>Selected text:</strong> "
+                {selectedText.substring(0, 100)}
+                {selectedText.length > 100 ? '...' : ''}"
+              </p>
               <button onClick={handleUseSelectedText}>Use in question</button>
             </div>
           )}
@@ -131,14 +152,22 @@ const RagChatbot = () => {
               </div>
             ) : (
               messages.map(msg => (
-                <div key={msg.id} className={`message ${msg.role} ${msg.error ? 'error' : ''}`}>
+                <div
+                  key={msg.id}
+                  className={`message ${msg.role} ${msg.error ? 'error' : ''}`}
+                >
                   <div className="message-content">{msg.content}</div>
+
                   {msg.sources?.length > 0 && (
                     <details>
                       <summary>Sources</summary>
                       <ul>
-                        {msg.sources.slice(0,3).map((s,i) => (
-                          <li key={i}>{s.content.substring(0,150)}{s.content.length>150?'...':''} (Score: {s.score.toFixed(3)})</li>
+                        {msg.sources.slice(0, 3).map((s, i) => (
+                          <li key={i}>
+                            {s.content.substring(0, 150)}
+                            {s.content.length > 150 ? '...' : ''}
+                            {' '} (Score: {s.score.toFixed(3)})
+                          </li>
                         ))}
                       </ul>
                     </details>
@@ -146,13 +175,17 @@ const RagChatbot = () => {
                 </div>
               ))
             )}
+
             {isLoading && (
               <div className="message assistant">
                 <div className="message-content">
-                  <div className="typing-indicator"><span></span><span></span><span></span></div>
+                  <div className="typing-indicator">
+                    <span></span><span></span><span></span>
+                  </div>
                 </div>
               </div>
             )}
+
             <div ref={messagesEndRef} />
           </div>
 
@@ -162,7 +195,11 @@ const RagChatbot = () => {
               value={inputValue}
               onChange={e => setInputValue(e.target.value)}
               onKeyDown={handleKeyDown}
-              placeholder={selectedText ? "Ask about selected text..." : "Ask about textbook content..."}
+              placeholder={
+                selectedText
+                  ? "Ask about selected text..."
+                  : "Ask about textbook content..."
+              }
               rows={3}
               disabled={isLoading}
             />
@@ -178,7 +215,9 @@ const RagChatbot = () => {
 
       {showTextSelectionHelp && selectedText && (
         <div className="text-selection-tooltip">
-          Selected text: "{selectedText.substring(0,50)}{selectedText.length>50?'...':''}"
+          Selected text: "
+          {selectedText.substring(0, 50)}
+          {selectedText.length > 50 ? '...' : ''}"
         </div>
       )}
     </div>

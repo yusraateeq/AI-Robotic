@@ -51,7 +51,7 @@ const RagChatbot = () => {
         : { query: inputValue, session_id: sessionId || undefined };
 
       // Use direct backend URL here
-      const response = await fetch(`http://127.0.0.1:8000${endpoint}`, {
+      const response = await fetch(`https://rag-chatbots-production.up.railway.app${endpoint}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(requestBody)

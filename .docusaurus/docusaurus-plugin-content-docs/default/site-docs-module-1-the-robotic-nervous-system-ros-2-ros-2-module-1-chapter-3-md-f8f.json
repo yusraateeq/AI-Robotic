@@ -1,0 +1,24 @@
+{
+  "id": "Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter3",
+  "title": "Chapter 3: Bridging Python Agents to ROS Controllers",
+  "description": "Introduction",
+  "source": "@site/docs/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter3.md",
+  "sourceDirName": "Module 1. The Robotic Nervous System (ROS 2)",
+  "slug": "/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter3",
+  "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Nodes, Topics, and Services",
+    "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter2"
+  },
+  "next": {
+    "title": "Chapter 4: Understanding URDF for Humanoids",
+    "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/ros2_module1_chapter4"
+  }
+}

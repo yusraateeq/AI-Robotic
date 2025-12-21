@@ -1,0 +1,24 @@
+{
+  "id": "Module 3/isaac_module3_chapter2",
+  "title": "Chapter 2: NVIDIA Isaac Sim - Photorealistic Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3/isaac_module3_chapter2.md",
+  "sourceDirName": "Module 3",
+  "slug": "/Module 3/isaac_module3_chapter2",
+  "permalink": "/docs/Module 3/isaac_module3_chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3/isaac_module3_chapter2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to NVIDIA Isaac and AI-Robot Systems",
+    "permalink": "/docs/Module 3/isaac_module3_chapter1"
+  },
+  "next": {
+    "title": "Chapter 3: Synthetic Data Generation for AI Training",
+    "permalink": "/docs/Module 3/isaac_module3_chapter3"
+  }
+}

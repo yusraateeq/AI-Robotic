@@ -1,0 +1,24 @@
+{
+  "id": "Module 3/isaac_module3_chapter4",
+  "title": "Chapter 4: Isaac ROS - Hardware-Accelerated Perception and VSLAM",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3/isaac_module3_chapter4.md",
+  "sourceDirName": "Module 3",
+  "slug": "/Module 3/isaac_module3_chapter4",
+  "permalink": "/docs/Module 3/isaac_module3_chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3/isaac_module3_chapter4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Synthetic Data Generation for AI Training",
+    "permalink": "/docs/Module 3/isaac_module3_chapter3"
+  },
+  "next": {
+    "title": "Chapter 5: Nav2 - Navigation for Humanoid and Mobile Robots",
+    "permalink": "/docs/Module 3/isaac_module3_chapter5"
+  }
+}

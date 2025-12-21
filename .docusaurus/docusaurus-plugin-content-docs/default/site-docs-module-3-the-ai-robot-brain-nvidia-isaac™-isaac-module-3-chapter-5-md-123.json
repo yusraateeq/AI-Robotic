@@ -1,0 +1,24 @@
+{
+  "id": "Module 3. The AI-Robot Brain (NVIDIA Isaac™)/isaac_module3_chapter5",
+  "title": "Chapter 5: Nav2 - Navigation for Humanoid and Mobile Robots",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/isaac_module3_chapter5.md",
+  "sourceDirName": "Module 3. The AI-Robot Brain (NVIDIA Isaac™)",
+  "slug": "/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/isaac_module3_chapter5",
+  "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/isaac_module3_chapter5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/isaac_module3_chapter5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Synthetic Data Generation for AI Training",
+    "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/Synthetic Data Generation for AI Training"
+  },
+  "next": {
+    "title": "Chapter 1: Introduction to NVIDIA Isaac and AI-Robot Systems",
+    "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/ntroduction to NVIDIA Isaac and AI-Robot Systems"
+  }
+}

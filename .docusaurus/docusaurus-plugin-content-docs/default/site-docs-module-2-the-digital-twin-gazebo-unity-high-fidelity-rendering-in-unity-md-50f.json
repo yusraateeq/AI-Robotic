@@ -1,0 +1,24 @@
+{
+  "id": "Module 2. The Digital Twin (Gazebo & Unity)/High-Fidelity Rendering in Unity",
+  "title": "Chapter 5: High-Fidelity Rendering in Unity",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2. The Digital Twin (Gazebo & Unity)/High-Fidelity Rendering in Unity.md",
+  "sourceDirName": "Module 2. The Digital Twin (Gazebo & Unity)",
+  "slug": "/Module 2. The Digital Twin (Gazebo & Unity)/High-Fidelity Rendering in Unity",
+  "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/High-Fidelity Rendering in Unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2. The Digital Twin (Gazebo & Unity)/High-Fidelity Rendering in Unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Gazebo Physics Simulation",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Gazebo Physics Simulation"
+  },
+  "next": {
+    "title": "Chapter 6: Human-Robot Interaction in Unity",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Human-Robot Interaction in Unity"
+  }
+}

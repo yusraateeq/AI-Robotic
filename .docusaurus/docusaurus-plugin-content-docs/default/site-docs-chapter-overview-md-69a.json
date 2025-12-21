@@ -1,0 +1,20 @@
+{
+  "id": "chapter-overview",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-overview.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-overview",
+  "permalink": "/docs/chapter-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/docs/chapter_01_physical_ai"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter_05_vla_systems",
+  "title": "Chapter 5: Digital Twin Simulation (Gazebo + Isaac)",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter_05_vla_systems.md",
+  "sourceDirName": ".",
+  "slug": "/chapter_05_vla_systems",
+  "permalink": "/docs/chapter_05_vla_systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/chapter_05_vla_systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Digital Twin Simulation (Gazebo + Isaac)",
+    "permalink": "/docs/chapter_04_Digital_Twin_Simulation"
+  },
+  "next": {
+    "title": "Chapter 6: Capstone - Simple AI-Robot Pipeline",
+    "permalink": "/docs/chapter_06_capstone"
+  }
+}

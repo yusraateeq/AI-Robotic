@@ -1,0 +1,24 @@
+{
+  "id": "Module 2/gazebo_module2_chapter4",
+  "title": "Chapter 4: Simulating Sensors - LiDAR, Depth Cameras, and IMUs",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2/gazebo_module2_chapter4.md",
+  "sourceDirName": "Module 2",
+  "slug": "/Module 2/gazebo_module2_chapter4",
+  "permalink": "/docs/Module 2/gazebo_module2_chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2/gazebo_module2_chapter4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Building Gazebo Environments and Worlds",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter3"
+  },
+  "next": {
+    "title": "Chapter 5: High-Fidelity Rendering in Unity",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter5"
+  }
+}

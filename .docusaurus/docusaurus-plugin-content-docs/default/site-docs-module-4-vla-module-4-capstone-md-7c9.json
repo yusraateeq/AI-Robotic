@@ -1,0 +1,24 @@
+{
+  "id": "Module 4/vla_module4_capstone",
+  "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
+  "description": "Project Overview",
+  "source": "@site/docs/Module 4/vla_module4_capstone.md",
+  "sourceDirName": "Module 4",
+  "slug": "/Module 4/vla_module4_capstone",
+  "permalink": "/docs/Module 4/vla_module4_capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 4/vla_module4_capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: End-to-End AI Pipeline - Simulation to Real Deployment",
+    "permalink": "/docs/Module 3/isaac_module3_chapter6"
+  },
+  "next": {
+    "title": "Chapter 1: Vision-Language-Action Models and the Future of Robotics",
+    "permalink": "/docs/Module 4/vla_module4_chapter1"
+  }
+}

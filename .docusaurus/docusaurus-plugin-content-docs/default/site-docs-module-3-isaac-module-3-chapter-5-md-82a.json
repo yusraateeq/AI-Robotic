@@ -1,0 +1,24 @@
+{
+  "id": "Module 3/isaac_module3_chapter5",
+  "title": "Chapter 5: Nav2 - Navigation for Humanoid and Mobile Robots",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3/isaac_module3_chapter5.md",
+  "sourceDirName": "Module 3",
+  "slug": "/Module 3/isaac_module3_chapter5",
+  "permalink": "/docs/Module 3/isaac_module3_chapter5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3/isaac_module3_chapter5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Isaac ROS - Hardware-Accelerated Perception and VSLAM",
+    "permalink": "/docs/Module 3/isaac_module3_chapter4"
+  },
+  "next": {
+    "title": "Chapter 6: End-to-End AI Pipeline - Simulation to Real Deployment",
+    "permalink": "/docs/Module 3/isaac_module3_chapter6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Module 2/gazebo_module2_chapter5",
+  "title": "Chapter 5: High-Fidelity Rendering in Unity",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2/gazebo_module2_chapter5.md",
+  "sourceDirName": "Module 2",
+  "slug": "/Module 2/gazebo_module2_chapter5",
+  "permalink": "/docs/Module 2/gazebo_module2_chapter5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2/gazebo_module2_chapter5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Simulating Sensors - LiDAR, Depth Cameras, and IMUs",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter4"
+  },
+  "next": {
+    "title": "Chapter 6: Human-Robot Interaction in Unity",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter6"
+  }
+}

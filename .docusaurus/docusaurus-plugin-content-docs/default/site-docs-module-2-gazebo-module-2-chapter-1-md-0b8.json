@@ -1,0 +1,24 @@
+{
+  "id": "Module 2/gazebo_module2_chapter1",
+  "title": "Chapter 1: Introduction to Digital Twins with Gazebo & Unity",
+  "description": "Overview",
+  "source": "@site/docs/Module 2/gazebo_module2_chapter1.md",
+  "sourceDirName": "Module 2",
+  "slug": "/Module 2/gazebo_module2_chapter1",
+  "permalink": "/docs/Module 2/gazebo_module2_chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2/gazebo_module2_chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Understanding URDF for Humanoids",
+    "permalink": "/docs/Module 1/ros2_module1_chapter4"
+  },
+  "next": {
+    "title": "Chapter 2: Gazebo Physics Simulation",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter2"
+  }
+}

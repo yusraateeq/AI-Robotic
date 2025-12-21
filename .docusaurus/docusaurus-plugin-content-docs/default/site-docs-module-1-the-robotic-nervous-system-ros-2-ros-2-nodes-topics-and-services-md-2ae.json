@@ -1,0 +1,24 @@
+{
+  "id": "Module 1. The Robotic Nervous System (ROS 2)/ROS 2 Nodes, Topics, and Services",
+  "title": "Chapter 2: ROS 2 Nodes, Topics, and Services",
+  "description": "Introduction",
+  "source": "@site/docs/Module 1. The Robotic Nervous System (ROS 2)/ROS 2 Nodes, Topics, and Services.md",
+  "sourceDirName": "Module 1. The Robotic Nervous System (ROS 2)",
+  "slug": "/Module 1. The Robotic Nervous System (ROS 2)/ROS 2 Nodes, Topics, and Services",
+  "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/ROS 2 Nodes, Topics, and Services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 1. The Robotic Nervous System (ROS 2)/ROS 2 Nodes, Topics, and Services.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to ROS 2 Middleware",
+    "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/Introduction to ROS 2 Middleware"
+  },
+  "next": {
+    "title": "Chapter 4: Understanding URDF for Humanoids",
+    "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/Understanding URDF for humanoids"
+  }
+}

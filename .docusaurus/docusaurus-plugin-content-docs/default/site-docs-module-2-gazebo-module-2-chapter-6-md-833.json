@@ -1,0 +1,24 @@
+{
+  "id": "Module 2/gazebo_module2_chapter6",
+  "title": "Chapter 6: Human-Robot Interaction in Unity",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2/gazebo_module2_chapter6.md",
+  "sourceDirName": "Module 2",
+  "slug": "/Module 2/gazebo_module2_chapter6",
+  "permalink": "/docs/Module 2/gazebo_module2_chapter6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2/gazebo_module2_chapter6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: High-Fidelity Rendering in Unity",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter5"
+  },
+  "next": {
+    "title": "Chapter 7: ROS 2 Integration - Gazebo and Unity Communication",
+    "permalink": "/docs/Module 2/gazebo_module2_chapter7"
+  }
+}

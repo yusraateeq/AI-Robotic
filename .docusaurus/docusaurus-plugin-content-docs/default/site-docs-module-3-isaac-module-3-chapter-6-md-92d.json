@@ -1,0 +1,24 @@
+{
+  "id": "Module 3/isaac_module3_chapter6",
+  "title": "Chapter 6: End-to-End AI Pipeline - Simulation to Real Deployment",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3/isaac_module3_chapter6.md",
+  "sourceDirName": "Module 3",
+  "slug": "/Module 3/isaac_module3_chapter6",
+  "permalink": "/docs/Module 3/isaac_module3_chapter6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3/isaac_module3_chapter6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Nav2 - Navigation for Humanoid and Mobile Robots",
+    "permalink": "/docs/Module 3/isaac_module3_chapter5"
+  },
+  "next": {
+    "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
+    "permalink": "/docs/Module 4/vla_module4_capstone"
+  }
+}

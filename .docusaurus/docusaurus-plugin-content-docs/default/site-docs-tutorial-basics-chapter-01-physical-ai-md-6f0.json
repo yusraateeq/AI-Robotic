@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/chapter_01_physical_ai",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/tutorial-basics/chapter_01_physical_ai.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/chapter_01_physical_ai",
+  "permalink": "/docs/tutorial-basics/chapter_01_physical_ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/chapter_01_physical_ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

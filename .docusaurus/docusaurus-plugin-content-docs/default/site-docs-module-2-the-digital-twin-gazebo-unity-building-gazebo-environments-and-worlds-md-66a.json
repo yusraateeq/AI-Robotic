@@ -1,0 +1,24 @@
+{
+  "id": "Module 2. The Digital Twin (Gazebo & Unity)/Building Gazebo Environments and Worlds",
+  "title": "Chapter 3: Building Gazebo Environments and Worlds",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2. The Digital Twin (Gazebo & Unity)/Building Gazebo Environments and Worlds.md",
+  "sourceDirName": "Module 2. The Digital Twin (Gazebo & Unity)",
+  "slug": "/Module 2. The Digital Twin (Gazebo & Unity)/Building Gazebo Environments and Worlds",
+  "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Building Gazebo Environments and Worlds",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2. The Digital Twin (Gazebo & Unity)/Building Gazebo Environments and Worlds.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Understanding URDF for Humanoids",
+    "permalink": "/docs/Module 1. The Robotic Nervous System (ROS 2)/Understanding URDF for humanoids"
+  },
+  "next": {
+    "title": "Chapter 2: Gazebo Physics Simulation",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Gazebo Physics Simulation"
+  }
+}

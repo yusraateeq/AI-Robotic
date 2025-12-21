@@ -1,0 +1,24 @@
+{
+  "id": "chapter_03_ros2_fundamentals",
+  "title": "Chapter 3: ROS 2 Fundamentals",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter_03_ros2_fundamentals.md",
+  "sourceDirName": ".",
+  "slug": "/chapter_03_ros2_fundamentals",
+  "permalink": "/docs/chapter_03_ros2_fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/chapter_03_ros2_fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Basics of Humanoid Robotics",
+    "permalink": "/docs/chapter_02_humanoid_robotics"
+  },
+  "next": {
+    "title": "Chapter 4: Digital Twin Simulation (Gazebo + Isaac)",
+    "permalink": "/docs/chapter_04_Digital_Twin_Simulation"
+  }
+}

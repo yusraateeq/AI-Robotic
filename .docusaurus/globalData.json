@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 1/ros2_module1_chapter1",
+              "path": "/docs/Module 1/ros2_module1_chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 1/ros2_module1_chapter2",
+              "path": "/docs/Module 1/ros2_module1_chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 1/ros2_module1_chapter3",
+              "path": "/docs/Module 1/ros2_module1_chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 1/ros2_module1_chapter4",
+              "path": "/docs/Module 1/ros2_module1_chapter4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter1",
+              "path": "/docs/Module 2/gazebo_module2_chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter2",
+              "path": "/docs/Module 2/gazebo_module2_chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter3",
+              "path": "/docs/Module 2/gazebo_module2_chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter4",
+              "path": "/docs/Module 2/gazebo_module2_chapter4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter5",
+              "path": "/docs/Module 2/gazebo_module2_chapter5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter6",
+              "path": "/docs/Module 2/gazebo_module2_chapter6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 2/gazebo_module2_chapter7",
+              "path": "/docs/Module 2/gazebo_module2_chapter7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter1",
+              "path": "/docs/Module 3/isaac_module3_chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter2",
+              "path": "/docs/Module 3/isaac_module3_chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter3",
+              "path": "/docs/Module 3/isaac_module3_chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter4",
+              "path": "/docs/Module 3/isaac_module3_chapter4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter5",
+              "path": "/docs/Module 3/isaac_module3_chapter5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 3/isaac_module3_chapter6",
+              "path": "/docs/Module 3/isaac_module3_chapter6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 4/vla_module4_capstone",
+              "path": "/docs/Module 4/vla_module4_capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 4/vla_module4_chapter1",
+              "path": "/docs/Module 4/vla_module4_chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 4/vla_module4_chapter2",
+              "path": "/docs/Module 4/vla_module4_chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Module 4/vla_module4_chapter3",
+              "path": "/docs/Module 4/vla_module4_chapter3",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

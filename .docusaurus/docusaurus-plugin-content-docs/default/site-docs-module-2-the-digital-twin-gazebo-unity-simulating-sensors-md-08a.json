@@ -1,0 +1,24 @@
+{
+  "id": "Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors",
+  "title": "Chapter 4: Simulating Sensors - LiDAR, Depth Cameras, and IMUs",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors.md",
+  "sourceDirName": "Module 2. The Digital Twin (Gazebo & Unity)",
+  "slug": "/Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors",
+  "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: ROS 2 Integration - Gazebo and Unity Communication",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication"
+  },
+  "next": {
+    "title": "Chapter 4: Isaac ROS - Hardware-Accelerated Perception and VSLAM",
+    "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/Isaac ROS - Hardware-Accelerated Perception and VSLAM"
+  }
+}

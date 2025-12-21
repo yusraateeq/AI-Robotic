@@ -1,0 +1,24 @@
+{
+  "id": "Module 3. The AI-Robot Brain (NVIDIA Isaac™)/NVIDIA Isaac Sim - Photorealistic Simulation",
+  "title": "Chapter 2: NVIDIA Isaac Sim - Photorealistic Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/NVIDIA Isaac Sim - Photorealistic Simulation.md",
+  "sourceDirName": "Module 3. The AI-Robot Brain (NVIDIA Isaac™)",
+  "slug": "/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/NVIDIA Isaac Sim - Photorealistic Simulation",
+  "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/NVIDIA Isaac Sim - Photorealistic Simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/NVIDIA Isaac Sim - Photorealistic Simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Isaac ROS - Hardware-Accelerated Perception and VSLAM",
+    "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/Isaac ROS - Hardware-Accelerated Perception and VSLAM"
+  },
+  "next": {
+    "title": "Chapter 3: Synthetic Data Generation for AI Training",
+    "permalink": "/docs/Module 3. The AI-Robot Brain (NVIDIA Isaac™)/Synthetic Data Generation for AI Training"
+  }
+}

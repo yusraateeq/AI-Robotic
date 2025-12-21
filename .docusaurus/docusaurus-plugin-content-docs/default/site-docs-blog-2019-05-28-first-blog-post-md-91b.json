@@ -1,0 +1,46 @@
+{
+  "id": "blog/2019-05-28-first-blog-post",
+  "title": "First Blog Post",
+  "description": "Lorem ipsum dolor sit amet...",
+  "source": "@site/docs/blog/2019-05-28-first-blog-post.md",
+  "sourceDirName": "blog",
+  "slug": "/blog/first-blog-post",
+  "permalink": "/docs/blog/first-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blog/2019-05-28-first-blog-post.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "hola",
+      "permalink": "/docs/tags/hola"
+    },
+    {
+      "inline": true,
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": [
+      "slorber",
+      "yangshun"
+    ],
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Long Blog Post",
+    "permalink": "/docs/blog/long-blog-post"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity",
+  "title": "Chapter 1: Introduction to Digital Twins with Gazebo & Unity",
+  "description": "Overview",
+  "source": "@site/docs/Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity.md",
+  "sourceDirName": "Module 2. The Digital Twin (Gazebo & Unity)",
+  "slug": "/Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity",
+  "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Human-Robot Interaction in Unity",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Human-Robot Interaction in Unity"
+  },
+  "next": {
+    "title": "Chapter 7: ROS 2 Integration - Gazebo and Unity Communication",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication"
+  }
+}

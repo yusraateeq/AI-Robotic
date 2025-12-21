@@ -1,0 +1,24 @@
+{
+  "id": "Module 3/isaac_module3_chapter3",
+  "title": "Chapter 3: Synthetic Data Generation for AI Training",
+  "description": "Introduction",
+  "source": "@site/docs/Module 3/isaac_module3_chapter3.md",
+  "sourceDirName": "Module 3",
+  "slug": "/Module 3/isaac_module3_chapter3",
+  "permalink": "/docs/Module 3/isaac_module3_chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 3/isaac_module3_chapter3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: NVIDIA Isaac Sim - Photorealistic Simulation",
+    "permalink": "/docs/Module 3/isaac_module3_chapter2"
+  },
+  "next": {
+    "title": "Chapter 4: Isaac ROS - Hardware-Accelerated Perception and VSLAM",
+    "permalink": "/docs/Module 3/isaac_module3_chapter4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Module 4/vla_module4_chapter1",
+  "title": "Chapter 1: Vision-Language-Action Models and the Future of Robotics",
+  "description": "Introduction",
+  "source": "@site/docs/Module 4/vla_module4_chapter1.md",
+  "sourceDirName": "Module 4",
+  "slug": "/Module 4/vla_module4_chapter1",
+  "permalink": "/docs/Module 4/vla_module4_chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 4/vla_module4_chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Capstone Project - The Autonomous Humanoid",
+    "permalink": "/docs/Module 4/vla_module4_capstone"
+  },
+  "next": {
+    "title": "Chapter 2: Voice-to-Action - Speech Recognition and Command Processing",
+    "permalink": "/docs/Module 4/vla_module4_chapter2"
+  }
+}

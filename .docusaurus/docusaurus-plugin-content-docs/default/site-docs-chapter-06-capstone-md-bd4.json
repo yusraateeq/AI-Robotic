@@ -1,0 +1,20 @@
+{
+  "id": "chapter_06_capstone",
+  "title": "Chapter 6: Capstone - Simple AI-Robot Pipeline",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter_06_capstone.md",
+  "sourceDirName": ".",
+  "slug": "/chapter_06_capstone",
+  "permalink": "/docs/chapter_06_capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/chapter_06_capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Vision-Language-Action Systems",
+    "permalink": "/docs/chapter_05_vla_system"
+  }
+}

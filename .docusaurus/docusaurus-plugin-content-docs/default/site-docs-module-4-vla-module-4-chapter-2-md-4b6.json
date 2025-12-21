@@ -1,0 +1,24 @@
+{
+  "id": "Module 4/vla_module4_chapter2",
+  "title": "Chapter 2: Voice-to-Action - Speech Recognition and Command Processing",
+  "description": "Introduction",
+  "source": "@site/docs/Module 4/vla_module4_chapter2.md",
+  "sourceDirName": "Module 4",
+  "slug": "/Module 4/vla_module4_chapter2",
+  "permalink": "/docs/Module 4/vla_module4_chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 4/vla_module4_chapter2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Vision-Language-Action Models and the Future of Robotics",
+    "permalink": "/docs/Module 4/vla_module4_chapter1"
+  },
+  "next": {
+    "title": "Chapter 3: Cognitive Planning with Large Language Models",
+    "permalink": "/docs/Module 4/vla_module4_chapter3"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "blog/2021-08-26-welcome/index",
+  "title": "Welcome",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "source": "@site/docs/blog/2021-08-26-welcome/index.md",
+  "sourceDirName": "blog/2021-08-26-welcome",
+  "slug": "/blog/2021-08-26-welcome/welcome",
+  "permalink": "/docs/blog/2021-08-26-welcome/welcome",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blog/2021-08-26-welcome/index.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "inline": true,
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "inline": true,
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "slorber",
+      "yangshun"
+    ],
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MDX Blog Post",
+    "permalink": "/docs/blog/mdx-blog-post"
+  },
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/docs/chapter_01_physical_ai"
+  }
+}

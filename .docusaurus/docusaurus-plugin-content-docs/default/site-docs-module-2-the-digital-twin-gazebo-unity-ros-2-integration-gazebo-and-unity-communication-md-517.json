@@ -1,0 +1,24 @@
+{
+  "id": "Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication",
+  "title": "Chapter 7: ROS 2 Integration - Gazebo and Unity Communication",
+  "description": "Introduction",
+  "source": "@site/docs/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication.md",
+  "sourceDirName": "Module 2. The Digital Twin (Gazebo & Unity)",
+  "slug": "/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication",
+  "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/Module 2. The Digital Twin (Gazebo & Unity)/ROS 2 Integration - Gazebo and Unity Communication.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Digital Twins with Gazebo & Unity",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Introduction to Digital Twins with Gazebo & Unity"
+  },
+  "next": {
+    "title": "Chapter 4: Simulating Sensors - LiDAR, Depth Cameras, and IMUs",
+    "permalink": "/docs/Module 2. The Digital Twin (Gazebo & Unity)/Simulating Sensors"
+  }
+}

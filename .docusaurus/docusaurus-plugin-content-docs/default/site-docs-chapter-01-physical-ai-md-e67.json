@@ -1,0 +1,24 @@
+{
+  "id": "chapter_01_physical_ai",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter_01_physical_ai.md",
+  "sourceDirName": ".",
+  "slug": "/chapter_01_physical_ai",
+  "permalink": "/docs/chapter_01_physical_ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/yusraateeq/AI-Robotic.git/docs/chapter_01_physical_ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Cognitive Planning with Large Language Models",
+    "permalink": "/docs/Module 4/vla_module4_chapter3"
+  },
+  "next": {
+    "title": "Chapter 2: Basics of Humanoid Robotics",
+    "permalink": "/docs/chapter_02_humanoid_robotics"
+  }
+}

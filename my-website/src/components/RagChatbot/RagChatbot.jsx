@@ -106,7 +106,7 @@ const RagChatbot = () => {
         className="chatbot-toggle"
         onClick={() => setIsChatOpen(!isChatOpen)}
       >
-        {isChatOpen ? '✕' : '🤖 AI Assistant'}
+        {isChatOpen ? '✕' : '🤖'}
       </button>
 
       {isChatOpen && (

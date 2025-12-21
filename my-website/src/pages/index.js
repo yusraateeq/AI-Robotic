@@ -34,10 +34,10 @@ export default function Home() {
           </div>
 
           <div className={styles.buttons}>
-            <Link className={styles.primaryButton} to="docs/chapter_01_physical_ai">
+            <Link className={styles.primaryButton} to="docs/Module 1/ros2_module1_chapter1">
               Start Reading →
             </Link>
-            <Link className={styles.secondaryButton} to="/docs/chapter_01_physical_ai">
+            <Link className={styles.secondaryButton} to="docs/Module 1/ros2_module1_chapter1">
               Explore Chapters 🚀
             </Link>
           </div>
@@ -45,25 +45,34 @@ export default function Home() {
       </main>
 
 
-      {/* -------------------- PREMIUM SECTION 1 -------------------- */}
-      <section className={styles.featuresSection}>
-        <div className={styles.featuresContainer}>
-          <h2 className={styles.sectionTitle}>Why This AI Book Stands Out?</h2>
+      {/* -------------------- MIND-BLOWING HIGHLIGHTS -------------------- */}
+      <section className={styles.wowSection}>
+        <div className={styles.wowContainer}>
+          <div className={styles.wowIntro}>
+            <h2 className={styles.sectionTitle}>Why This AI Book Will Blow Your Mind</h2>
+            <p className={styles.wowSubtitle}>Interactive examples, real robotics case studies, and AI explanations designed to make complex ideas instantly clear.</p>
+          </div>
 
-          <div className={styles.featuresGrid}>
-            <div className={styles.featureCard}>
-              <h3>📘 Beginner Friendly</h3>
-              <p>Concepts are simplified with visual examples and modern explanations.</p>
+          <div className={styles.wowGrid}>
+            <div className={styles.wowCard}>
+              <div className={styles.wowIcon} aria-hidden>🤯</div>
+              <h3>Concepts Demystified</h3>
+              <p>From control loops to perception — learn with visual walkthroughs and live demos that make intuition stick.</p>
+              <div className={styles.statBadge}>Instant Understanding</div>
             </div>
 
-            <div className={styles.featureCard}>
-              <h3>🤖 Real Robotics</h3>
-              <p>Learn how humanoid robots think, move, react and understand the world.</p>
+            <div className={styles.wowCard}>
+              <div className={styles.wowIcon} aria-hidden>⚙️</div>
+              <h3>Hands-on Robotics</h3>
+              <p>Practical projects and code you can run — mapping theory to real robot behaviour and systems.</p>
+              <div className={styles.statBadge}>Run & Experiment</div>
             </div>
 
-            <div className={styles.featureCard}>
-              <h3>🎨 Modern Design</h3>
-              <p>A clean, animated book-style interface designed for smooth learning.</p>
+            <div className={styles.wowCard}>
+              <div className={styles.wowIcon} aria-hidden>💡</div>
+              <h3>AI That Explains</h3>
+              <p>Context-aware explanations and step-by-step breakdowns so you never feel lost while learning.</p>
+              <div className={styles.statBadge}>AI-Powered Help</div>
             </div>
           </div>
         </div>
@@ -75,3 +84,6 @@ export default function Home() {
     </Layout>
   );
 }
+
+
+// chapter_01_physical_ai
